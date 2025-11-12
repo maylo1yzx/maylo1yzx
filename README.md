@@ -18,7 +18,6 @@
 <a href="https://dev.to/maylo1yzx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="maylo1yzx" height="30" width="40" /></a>
 <a href="https://twitter.com/maylo_yzx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maylo_yzx" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/maylo-yzx-b95203344" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maylo-yzx-b95203344" height="30" width="40" /></a>
-<a href="https://instagram.com/maylo.yzx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maylo.yzx" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
